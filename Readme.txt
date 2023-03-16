@@ -1,15 +1,3 @@
-biodata peserta 
-  - kode peserta : INPG-PKJ-006
-  - nama peserta : Dony Abriansyah Utoyo
-  - alamat : Bangkalan - Madura
-  - hobi : Ngoding, Nonton Anime, Bersepeda, Baca Buku
-
-
-
-
-
-
-
 Thanks for downloading this template!
 
 Template Name: iPortfolio
